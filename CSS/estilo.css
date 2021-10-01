@@ -1,10 +1,14 @@
 body{
-    background-color: lightskyblue;
+    background-color: rgb(236, 215, 255);
 }
 .col{
-    background-color: white;
+    background-color: rgb(229, 202, 255);
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(0, 0, 0);
 }
