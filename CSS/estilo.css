@@ -12,3 +12,10 @@ body{
 h2{
     color: rgb(0, 0, 0);
 }
+
+.img-fluid2{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding-top: 30;
+}
