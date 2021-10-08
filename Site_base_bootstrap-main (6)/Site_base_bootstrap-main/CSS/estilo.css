@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(236, 215, 255);
+}
+.col{
+    background-color: rgb(229, 202, 255);
+}
+.container{
+    margin-top:50px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+
+
+.img-fluid2{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding-top: 30;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: blanchedalmond;
+}
